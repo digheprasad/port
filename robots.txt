@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prasaddigheport.netlify.app/sitemap.xml
