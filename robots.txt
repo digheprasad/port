@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://prasaddigheport.netlify.app/sitemap.xml
+Sitemap: https://digheprasad.github.io/port/sitemap.xml
