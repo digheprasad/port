@@ -1,5 +1,5 @@
 const portfolioData = {
-  name: "Prasad Tanaji Dighe",
+  name: "_Prasad Tanaji Dighe_",
   headline: "Computer Science Student",
   location: "Solapur, India",
   email: "digheprasad33@gmail.com",
